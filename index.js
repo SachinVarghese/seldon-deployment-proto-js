@@ -17,7 +17,6 @@ var pred = new s.PredictorSpec()
 pred.setName("default")
 
 
-
 // Creating Deployment predictor graph
 
 var graph = new s.PredictiveUnit()
