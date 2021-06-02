@@ -13,6 +13,7 @@ make proto-gen
 ## Run demo to view deployment created
 
 ```
+npm i
 node .
 ```
 
