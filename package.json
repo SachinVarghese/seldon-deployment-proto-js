@@ -1,0 +1,22 @@
+{
+  "name": "seldon-deployment-proto",
+  "version": "1.0.0",
+  "description": "Works with Seldon Core version v1.8.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SachinVarghese/seldon-deployment-proto-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SachinVarghese/seldon-deployment-proto-js/issues"
+  },
+  "homepage": "https://github.com/SachinVarghese/seldon-deployment-proto-js#readme",
+  "dependencies": {
+    "google-protobuf": "^3.17.1"
+  }
+}
